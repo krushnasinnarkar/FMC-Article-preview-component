@@ -129,6 +129,10 @@ body {
   filter: invert(1);
 }
 
+.visually-hidden {
+  display: none;
+}
+
 .share-option {
   --scale: 0;
   --translateX: -50%;
